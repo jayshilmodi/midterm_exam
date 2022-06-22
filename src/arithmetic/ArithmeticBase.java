@@ -36,7 +36,7 @@ public class ArithmeticBase
 //        String s= sc.next();
         
        
-        switch (o.values) 
+        switch (o.PLUS) 
         {
             case PLUS:
                 return x + y;
